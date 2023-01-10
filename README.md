@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshwar288
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in python developer/data science.
+- 🌱 I’m currently learning machine learning integrated with Web.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yogkhandagre444@gmail.com
 
